@@ -13,6 +13,9 @@ function App() {
       <Greet name="Diana" heroName="WonderWomen">
         <p>This is Wonder Women</p>
       </Greet>
+      <Greet name="Arther" heroName="AquaMan">
+        <p>This is Aqua Man</p>
+      </Greet>
     </>
   );
 }
